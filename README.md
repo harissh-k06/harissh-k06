@@ -1,76 +1,65 @@
-<div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-<h1 align="center">Hey there, I'm Harissh Krishna 👋</h1>
-<h3 align="center">A passionate developer from India, turning ideas into reality.</h3>
-<img src="https://komarev.com/ghpvc/?username=harissh-k06&style=flat-square&color=blueviolet" alt=""/>
-</div>
+<h1 align="center">Hey 👋, I'm <span style="color:#fca311">Harissh Krishna</span></h1>
+<h3 align="center">🚀 Full-throttle on DSA, AI & life. Learning in public. Shipping in silence.</h3>
 
-<br/>
-
-<div align="center">
-<a href="https://github.com/harissh-k06">
-<img src="https://github-readme-stats.vercel.app/api?username=harissh-k06&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Harissh's GitHub Stats" />
-</a>
-</div>
-
-👨‍💻 About Me
-🚀 I’m currently building a FaceMask Detector using CNN.
-
-🧠 I’m focused on learning TensorFlow, LLM APIs, and Scikit-Learn.
-
-👨‍💻 All of my projects are available on my GitHub.
-
-💬 Ask me about C++, Backtracking, and Cricket! I'd love to chat.
-
-📫 How to reach me: harisshkrishna@gmail.com
-
-🛠️ My Tech Stack
 <p align="center">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=ML+%7C+DSA+%7C+LLMs+%7C+Cricket+nerd;Coding+my+way+through+CS+%F0%9F%93%9A;C%2B%2B+backtracking+warrior+%7C+TensorFlow+explorer;Open+to+collabs+and+cool+dev+convos" alt="Typing SVG" />
 </p>
 
-🌐 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/harisshkrishna/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/harissh_k06" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.leetcode.com/harissh_krishana_06" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+---
+
+### 🔥 Currently Building
+- 🎯 [Face Mask Detection using CNN](https://github.com/harissh-k06/mask_dedector_CNN.git)
+
+### 🧠 Currently Exploring
+- **TensorFlow** 🤖  
+- **LLM APIs** 🧩  
+- **Scikit-learn** 📊
+
+### 💬 Hit Me Up For
+- C++ DSA 🔗
+- Backtracking strategies 🧵
+- Cricket breakdowns 🏏
+
+### 🌍 Connect & Collab
+<p align="left">
+  <a href="https://www.linkedin.com/in/harisshkrishna/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  <a href="https://instagram.com/harissh_k06" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
+  </a>
+  <a href="https://leetcode.com/harissh_krishana_06" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" />
+  </a>
 </p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harissh-k06&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+---
 
-🐍 Just for Fun
-<div align="center">
-<p>Here's a little snake game eating up my contributions!</p>
-<img src="https://github-readme-snake.vercel.app/api/snake?username=harissh-k06&color_snake=#6272a4&color_dots=#f8f8f2,#ffb86c,#ff79c6,#bd93f9,#ff5555,#50fa7b" alt="Snake Game" />
-</div>
+### 🛠️ Tech I Use & Love
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,mysql,pandas,scikit-learn,tensorflow" />
+</p>
+
+---
+
+### 📊 Languages Most Used
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harissh-k06&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 🧩 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harissh-k06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🧠 Fun Fact
+> I can debug a C++ pointer issue faster than I find the cricket score. (Almost.) 😉
+
+---
+
+<h3 align="center">💡 Let’s build, learn, and grow — one commit at a time.</h3>
+<p align="center">✨ Stay curious. Stay consistent. The rest takes care of itself.</p>
