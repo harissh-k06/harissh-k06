@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-throttle on DSA, AI & life. Learning in public. Shipping in silence.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=ML+%7C+DSA+%7C+LLMs+%7C+Cricket+nerd;Coding+my+way+through+CS+%F0%9F%93%9A;C%2B%2B+backtracking+warrior+%7C+TensorFlow+explorer;Open+to+collabs+and+cool+dev+convos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=520&lines=ML+%7C+DSA+%7C+LLMs+%7C+Cricket+nerd;Coding+my+way+through+CS+%F0%9F%93%9A;C%2B%2B+Backtracking+warrior+%7C+TensorFlow+explorer;Open+to+collabs+and+cool+dev+convos" alt="Typing SVG" />
 </p>
 
 ---
